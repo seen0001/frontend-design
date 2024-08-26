@@ -1,2 +1,4 @@
 /* Dine styles her */
-article {}
+article > * {
+  margin-inline: 0.5rlh;
+}
